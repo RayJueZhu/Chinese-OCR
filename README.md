@@ -5,8 +5,6 @@ python3.6,GPU版的chinese-ocr的修改与支持
 模型等资料github均可获得，也可以联系我。
 e-mail：1448266751@qq.com
 PS:以解决源代码中对于翻转角度的图片的识别问题，准确率如下：
-x-special/nautilus-clipboard
-copy
-file:///home/rayjue/Pictures/Screenshot%20from%202020-02-11%2012-14-49.png
+
 
 
